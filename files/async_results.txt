@@ -1,0 +1,1 @@
+Results of combinations of files: First file content., Second file content.
