@@ -1,0 +1,19 @@
+{
+  "name": "handson",
+  "version": "1.0.0",
+  "description": "Node js handson",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagcse42/node-js-handson.git"
+  },
+  "author": "Nagarjuna Paritala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagcse42/node-js-handson/issues"
+  },
+  "homepage": "https://github.com/nagcse42/node-js-handson#readme"
+}
