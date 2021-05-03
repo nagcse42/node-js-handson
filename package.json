@@ -4,7 +4,8 @@
   "description": "Node js handson",
   "main": "1-intro.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "start": "node app.js",
+   "dev":"nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/nagcse42/node-js-handson/issues"
   },
-  "homepage": "https://github.com/nagcse42/node-js-handson#readme"
+  "homepage": "https://github.com/nagcse42/node-js-handson#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }

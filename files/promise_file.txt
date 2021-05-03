@@ -1,0 +1,1 @@
+Merge of first and second file : First file content. Second file content.
